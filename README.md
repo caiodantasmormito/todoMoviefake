@@ -1,0 +1,1 @@
+Clone da interface do app TodoMovie. Tive uma duvida com a API e entao fiz do jeito que achei melhor.
